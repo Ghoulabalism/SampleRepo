@@ -7,6 +7,10 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
+  function handleClick() {
+     alert("Hello. Button was clicked")
+  }  
+
   return (
     <>
     <h1 className='header'>Hello World!</h1>
@@ -15,6 +19,7 @@ function App() {
       <p className='para2'>Paragraph 2 content</p>
       <p className='para3'>Paragraph 3 Content</p>
     </div>
+    <button className='btn' onClick={handleClick}>Click Button</button>
     </>
   )
 }
