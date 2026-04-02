@@ -10,6 +10,11 @@ function App() {
   return (
     <>
     <h1 className='header'>Hello World!</h1>
+    <div className='container'>
+      <p className='para1'>Adding a paragraph</p>
+      <p className='para2'>Adding a paragraph</p>
+      <p className='para3'>Adding a paragraph</p>
+    </div>
     </>
   )
 }
