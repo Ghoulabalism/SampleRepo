@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-    <h1 className='header'>Hello World!</h1>
+    <h1 className='header'>Welcome to the React App!</h1>
     <div className='container'>
       <p className='para1'>Paragaraph 1 content</p>
       <p className='para2'>Paragraph 2 content</p>
