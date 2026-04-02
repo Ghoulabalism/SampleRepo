@@ -13,7 +13,11 @@ function App() {
 
   return (
     <>
+<<<<<<< HEAD
     <h1 className='header'>The React App Welcomes you!</h1>
+=======
+    <h1 className='header'>Hello from the React Application</h1>
+>>>>>>> branch-b
     <div className='container'>
       <p className='para1'>Paragaraph 1 content</p>
       <p className='para2'>Paragraph 2 content</p>
