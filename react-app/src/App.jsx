@@ -11,9 +11,9 @@ function App() {
     <>
     <h1 className='header'>Hello World!</h1>
     <div className='container'>
-      <p className='para1'>Adding a paragraph</p>
-      <p className='para2'>Adding a paragraph</p>
-      <p className='para3'>Adding a paragraph</p>
+      <p className='para1'>Paragaraph 1 content</p>
+      <p className='para2'>Paragraph 2 content</p>
+      <p className='para3'>Paragraph 3 Content</p>
     </div>
     </>
   )
