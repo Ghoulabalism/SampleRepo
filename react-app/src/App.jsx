@@ -13,9 +13,6 @@ function App() {
 
   return (
     <>
-<<<<<<< HEAD
-    <h1 className='header'>The React App Welcomes you!</h1>
-=======
     <h1 className='header'>Hello from the React Application</h1>
 >>>>>>> branch-b
     <div className='container'>
